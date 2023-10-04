@@ -1,0 +1,24 @@
+/* Footer.css */
+
+.footer {
+    margin-top: 450px;
+    background-color:rgba(128, 0, 128, 0.751);
+    color: #fff; /* Text color */
+    padding: 20px 0; /* Padding around content */
+    text-align: center; /* Center-align text */
+  }
+  
+  .footer p {
+    margin: 0; /* Remove default margin for the paragraph */
+  }
+  
+  /* Optional: Add styles for links in the footer if needed */
+  .footer a {
+    color: #fff; /* Text color for links */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  .footer a:hover {
+    text-decoration: underline; /* Underline links on hover */
+  }
+  

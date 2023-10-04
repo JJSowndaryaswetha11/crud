@@ -1,0 +1,47 @@
+/* src/TaskList.css */
+
+.task-list {
+    margin: 20px;
+  }
+  
+  .task-form {
+    margin-bottom: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color:purple;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color:white;
+  }
+  
+  table th, table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table th {
+    background-color:goldenrod;
+    font-weight: bold;
+  }
+  
+  table tbody tr:hover {
+    background-color: plum;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: goldenrod;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #c0392b;
+  }
+  
